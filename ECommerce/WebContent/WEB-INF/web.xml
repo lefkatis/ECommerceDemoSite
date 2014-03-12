@@ -15,6 +15,6 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>ECommerce</servlet-name>
-    <url-pattern>/ecommserv</url-pattern>
+    <url-pattern>//stustore\student\stucat003\context</url-pattern>
   </servlet-mapping>
 </web-app>
